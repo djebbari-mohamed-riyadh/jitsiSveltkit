@@ -1,0 +1,2 @@
+# jitsiSveltkit
+code jitsi sveltekit
